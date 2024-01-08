@@ -27,6 +27,7 @@
         <a href="#about">ABOUT</a>
         <a href="#produk">PRODUCT</a>
         <a href="#info">LOCATION</a>
+        <a href="index.php">EXIT</a>
       </div>
 
       <div class="navbar-ekstra">
@@ -86,49 +87,49 @@
           <img src="image/sensordht11.jpeg" alt="produk 1" />
           <p>Sensor Dht11</p>
           <p><span>Rp. 14.175</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/lcd1602+I2C.jpeg" alt="produk 2" />
           <p>LCD1602 + I2C</p>
           <p><span>Rp. 30.000</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor Ultrasonik.jpeg" alt="produk 3" />
           <p>Ultrasonic Sensor Module HC-SR04</p>
           <p><span>Rp. 10.000</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor pir.jpeg" alt="produk 4" />
           <p>HC-SR501 PIR Motion Sensor Detector Module</p>
           <p><span>Rp. 10.000</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor flame detector.jpeg" alt="produk 5" />
           <p>IR Infrared Flame Detection Sensor</p>
           <p><span>Rp. 6.000</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor suara.jpeg" alt="produk 6" />
           <p>Sound Detection Sensor Module Suara</p>
           <p><span>Rp. 6.825</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor obstacle.jpeg" alt="Game 6" />
           <p</>Obstacle Avoidance Sensor Module Infrared</p>
           <p><span>Rp. 5.250</span></p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
         <div class="produk-item">
           <img src="image/sensor gas.jpeg" alt="Game 6" />
           <p>Sensor gas mudah terbakar asap gas metana MQ-2</p>
           <p><span>Rp. 14.700</p>
-          <a href="https://api.whatsapp.com/send?phone=6282314940695&text=Saya%20ingin%20memesan%20Sensor%20Yang%20ada%20di%20website." class="btn">Order</a>
+          <a href="order/index.php" class="btn">Order</a>
         </div>
       </div>
     </section>
